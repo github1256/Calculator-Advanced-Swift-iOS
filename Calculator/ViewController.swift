@@ -54,7 +54,7 @@ class ViewController: UIViewController {
         firstOperand = currentInput
         stillTyping = false
     }
-    
+//this is a proof !!!!
     @IBAction func equalSignPressed(_ sender: UIButton) {
         if stillTyping {
             secondOperand = currentInput
